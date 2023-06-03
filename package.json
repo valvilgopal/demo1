@@ -1,0 +1,43 @@
+{
+  "name": "demo",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/index.js",
+  "dependencies": {
+    "bootstrap": "4.3.1",
+    "namor": "1.0.1",
+    "prop-types": "15.6.1",
+    "react": "16.3.2",
+    "react-bootstrap": "1.0.0-beta.5",
+    "react-dom": "16.3.2",
+    "react-js-pagination": "3.0.2",
+    "react-paginate": "6.3.0",
+    "react-pagination-table": "2.0.2",
+    "react-scripts": "1.1.4",
+    "react-table": "6.8.2"
+  },
+    "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
